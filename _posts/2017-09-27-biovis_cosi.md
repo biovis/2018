@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BioVis @ ISMB 2017
+title: BioVis @ ISMB 2018
 date: 2017-09-27
 event: ismb
 categories: ismb

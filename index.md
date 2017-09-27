@@ -26,10 +26,10 @@ layout: home
                       </div>
 
                       <div class="col s12 event-details">
-                          <div class="event-name">ISMB 2017</div>
+                          <div class="event-name">ISMB 2018</div>
                           <div class="event-subtitle">Main Conference Event</div>
-                          <div class="event-location">Prague, Czech Republic</div>
-                          <div class="event-date">July 24 2017</div>
+                          <div class="event-location">Chicago, United States</div>
+                          <div class="event-date">October 2018</div>
                       </div>
                   </div>
                 </div>
@@ -44,10 +44,10 @@ layout: home
                               <span class="helper"></span><img src="{{ site.baseurl }}/images/logos/ieee.svg" width="70%">
                             </div>
                           <div class="col s6 event-details">
-                            <div class="event-name" style="text-align:left;">IEEE VIS 2017</div>
+                            <div class="event-name" style="text-align:left;">IEEE VIS 2018</div>
                             <div class="event-subtitle" style="text-align:left;">Workshop</div>
-                            <div class="event-location" style="text-align:left;">Phoenix, Arizona</div>
-                            <div class="event-date" style="text-align:left;">October 2nd 2017</div>
+                            <div class="event-location" style="text-align:left;">Berlin Germany</div>
+                            <div class="event-date" style="text-align:left;">October 2018</div>
                           </div>
                         </div>
                       </a>
