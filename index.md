@@ -35,7 +35,23 @@ layout: home
                 </div>
                 </a>
 
+              <a href="{{site.baseurl}}/dream">
+              <div class="col s12 m6">
+                  <div class="row event center-align">
+                      <div class="col s12">
+                          <img src="{{ site.baseurl }}/images/logos/dream.svg" width="40%">
+                      </div>
 
+                      <div class="col s12 event-details">
+                          <div class="event-name">DREAM Challenge </div>
+                          <div class="event-subtitle">SMC-RNA BioVis Data Visualization </div>
+                      </div>
+                  </div>
+                </div>
+                </a>
+            </div>
+
+<!--
                 <div class="col s12 m6">
                 <div class="row">
                       <a href="{{site.baseurl}}/ieeevis">
@@ -52,22 +68,23 @@ layout: home
                         </div>
                       </a>
                   </div>
+
                   <div class="row">
                   <a href="{{site.baseurl}}/dream">
-                    <div class="col s12 eventSplit center-align">
+                    <div class="row event center-align">
                         <div class="col s6 center-align">
                           <span class="helper"></span><img src="{{ site.baseurl }}/images/logos/dream.svg" style="vertical-align: middle;" width="70%">
                         </div>
                       <div class="col s6 event-details">
-                      <div class="event-name" style="text-align:left;">DREAM 2016</div>
+                      <div class="event-name" style="text-align:left;">DREAM </div>
                       <div class="event-subtitle" style="text-align:left;">SMC-RNA BioVis Data Visualization DREAM Challenge</div>
                       </div>
                     </div>
                   </a>
                   </div>
-                </div>
+                 </div>
 
-                 <!--
+               
                   <a href="{{site.baseurl}}/dream">
                   <div class="col s12 m4">
                       <div class="row event center-align">
@@ -83,8 +100,8 @@ layout: home
                       </div>
                     </div>
                     </a>
-                  -->
                 </div>
+-->
                 <!--
                 <p class="hide-on-small-only">The BioVis meetings are intended to educate, inspire, and engage visualization researchers in problems in biological data visualization, as well as bioinformatics and biology researchers in state-of-the-art visualization research. The workshops serve as a platform for researchers from these fields to increase the impact of data visualization approaches in biology, and to initiate interdisciplinary collaborations.</p>
                 -->
@@ -152,14 +169,14 @@ layout: home
                         <div class="col s12 m12">
 
                             <h4>Affiliates</h4>
-                            <p> BioVis 2017 is an official part of <a href="https://www.iscb.org/ismb2017"> ISMB 2017</a></p>
+                            <p> {{ site.conferenceshort }} is an official part of <a href="https://www.iscb.org/ismb2018"> ISMB 2018</a></p>
                             <p>    <a href="https://www.iscb.org">
                                     <img src="{{site.baseurl}}/images/sponsors/ISCB.jpg" alt="ISCB"/>
                                 </a>
                              </p>
                              <br/>
 
-
+<!--
                              We also acknowledge the support of BMC:<br/>
 
                              <img src="{{site.baseurl}}/images/sponsors/publications_BMC.jpg" alt="BMC"> <br/>
@@ -169,7 +186,6 @@ layout: home
                              <br/>
 
                         </div>
-<!--
                         <div class="col s12 m6">
                             <h4>Sponsors</h4>
                             <p>We are grateful to our invaluable sponsors who contribute to prizes and the running costs of BioVis!

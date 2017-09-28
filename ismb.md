@@ -50,7 +50,7 @@ permalink: /ismb/
             <h4>Important Dates</h4>
             <p><strong>ISMB Proceedings Paper Submission Deadline:</strong>  {{ site.ismb_paper_submission_deadline }}</p>
             <p><strong>Late Poster Submission Deadline:</strong>  {{ site.ismb_poster_submission_deadline }}</p>
-            <p><strong>Abstract and Highlight Talks Submission Dedaline:</strong> {{ site.ismb_highlights_submission_deadline}}</p>  
+            <p><strong>Abstract and Highlight Talks Submission Deadline:</strong> {{ site.ismb_highlights_submission_deadline}}</p>  
 
       </div>
 
