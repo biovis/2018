@@ -29,7 +29,7 @@ layout: home
                           <div class="event-name">ISMB 2018</div>
                           <div class="event-subtitle">Main Conference Event</div>
                           <div class="event-location">Chicago, United States</div>
-                          <div class="event-date">October 2018</div>
+                          <div class="event-date">Between 6 and 10 July 2018</div>
                       </div>
                   </div>
                 </div>
