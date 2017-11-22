@@ -114,10 +114,12 @@ layout: home
                         <div class="col s12 m12 center-align">
                             <h4><i class="material-icons" style="font-size: .9em">date_range</i> Important Dates</h4>
                         </div>
-                        <p><strong>ISMB Proceedings Paper Submission Deadline:</strong>  {{ site.ismb_paper_submission_deadline }}</p>
-                        <p><strong>BioVis Proceedings Paper Submission Deadline (presented at ISMB):</strong> {{ site.biovis_paper_submission_deadline}}</p>
+                        <p><strong>ISMB Proceedings Paper Submission Deadline:</strong> {{ site.ismb_paper_submission_deadline }}</p>
+                        <!--<p><strong>BioVis Proceedings Paper Submission Deadline (presented at ISMB):</strong> {{ site.biovis_paper_submission_deadline}}</p>-->
+						<p><strong>ISMB Abstract Submission Deadline:</strong>  {{ site.ismb_abstract_submission_deadline }}</p>
                         <p><strong>BioVis @ ISMB Poster Late Submission Deadline:</strong>  {{ site.ismb_poster_submission_deadline }}</p>
-                        <p><strong>BioVis @ ISMB Highlight Talks Submission Deadline:</strong> {{ site.ismb_highlights_submission_deadline}}</p>            
+                        <!--<p><strong>BioVis @ ISMB Highlight Talks Submission Deadline:</strong> {{ site.ismb_highlights_submission_deadline}}</p>-->
+						<p><a href="https://www.iscb.org/ismb2018-keydates">See ISMB Key Dates for more details</a></p>
                 </div>
 
                 <!-- ADDING A NEWS FEED -->

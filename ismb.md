@@ -49,9 +49,9 @@ permalink: /ismb/
       <div class="col s12 m6">
             <h4>Important Dates</h4>
             <p><strong>ISMB Proceedings Paper Submission Deadline:</strong>  {{ site.ismb_paper_submission_deadline }}</p>
+			<p><strong>Abstract Submission Deadline:</strong> {{ site.ismb_abstract_submission_deadline}}</p>  
             <p><strong>Late Poster Submission Deadline:</strong>  {{ site.ismb_poster_submission_deadline }}</p>
-            <p><strong>Abstract and Highlight Talks Submission Deadline:</strong> {{ site.ismb_highlights_submission_deadline}}</p>  
-
+			<p><a href="https://www.iscb.org/ismb2018-keydates">See ISMB Key Dates for more details</a></p>
       </div>
 
 

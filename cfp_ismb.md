@@ -20,8 +20,8 @@ Contributions will be invited on all aspects of data visualization in biology, a
 #### Important dates (for latest updates see the [ISMB website](https://www.iscb.org/ismb2018)):
 
 
-- Proceedings submission deadline: 26/1/2018
+- Proceedings submission deadline: 29/1/2018
 - Abstract submission deadline: 5/4/2018
-- Poster submission deadline: 1/5/2018
+- Late Poster submission deadline: 1/5/2018
 - Biovis conference: 1 day between 6-10/7/2018
 
