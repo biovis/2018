@@ -9,6 +9,7 @@ menu: main
 
 ### Paper chair
 [Michel Westenberg](http://www.win.tue.nl/~mwestenb/), Eindhoven University of Technology, The Netherlands<br />
+[Jeremy Goecks](https://goeckslab.org), Oregon Health & Science University, USA<br />
 
 ### Abstract chairs
 [Thomas Höllt](https://graphics.tudelft.nl/thomas-hollt/), TU Delft, The Netherlands<br />
