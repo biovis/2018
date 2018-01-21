@@ -21,7 +21,7 @@ menu: main
 
 ## BioVis COSI @ ISMB 2018
 
-### Paper chair
+### Paper chairs
 [Michel Westenberg](http://www.win.tue.nl/~mwestenb/), Eindhoven University of Technology, The Netherlands<br />
 [Jeremy Goecks](https://goeckslab.org), Oregon Health & Science University, USA<br />
 
