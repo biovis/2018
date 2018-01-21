@@ -1,4 +1,4 @@
-@import url('//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+﻿@import url('//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
 
 body {
     font-family: 'Source Sans Pro', sans-serif;
@@ -11,6 +11,10 @@ a {
 
 strong {
     font-weight: bolder;
+}
+
+h2 {
+    font-size: 2.5em;
 }
 
 h3 {
