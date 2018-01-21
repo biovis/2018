@@ -37,7 +37,7 @@ layout: home
 
 				<div class="col s12 m6">
 					<div class="row">
-                      <a href="{{site.baseurl}}/ieee">
+                      <a href="{{site.baseurl}}/ieeevis">
                         <div class="col s12 eventSplit center-align">
                             <div class="col s6 center-align">
                               <span class="helper"></span><img src="{{ site.baseurl }}/images/logos/ieee.svg" width="70%" />
