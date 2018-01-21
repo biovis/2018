@@ -12,22 +12,22 @@ layout: home
 
         <div class="blue-section col s12">
         <div class="container">
-              <p class="hide-on-small-only">There are multiple ways to participate in BioVis through conferences and ongoing events. This year, the main BioVis event will be at <a href="https://www.iscb.org/about-ismb">ISMB</a> as a <em> Community of Special Interest (COSI)</em> on {{ site.ISMBconferencedate}}, in Chicago (United States). A smaller workshop event will be event will be held at <a href="http://ieeevis.org" >IEEE VIS</a>  on {{site.IEEEconferencedate}} in Berlin (Germany). Throughout the year, BioVis will also be hosting a DREAM challenge event.
-
-              These events serve as a platform for researchers from biology, bioinformatics, and information visualization fields to increase the impact of data visualization approaches in biology, and to initiate interdisciplinary collaborations. Get involved in our events at a conference or challenge (or all three!). Important dates for submissions are available below, and on the detailed pages for each event.
+              <p class="hide-on-small-only">
+			  There are multiple ways to participate in BioVis through conferences and ongoing events. This year, the main BioVis event will be at <a href="https://www.iscb.org/about-ismb">ISMB</a> as a <a href="https://www.iscb.org/communities-of-special-interest">Community of Special Interest (COSI)</a> in {{site.ISMBconferencedate}} in Chicago (United States). A smaller workshop event will be event will be held at <a href="http://ieeevis.org" >IEEE VIS</a> in {{site.IEEEconferencedate}} in Berlin (Germany). Throughout the year, BioVis will also be hosting a DREAM challenge event. These events serve as a platform for researchers from biology, bioinformatics, and information visualization fields to increase the impact of data visualization approaches in biology, and to initiate interdisciplinary collaborations. Get involved in our events at a conference or challenge (or all three!). Important dates for submissions are available below, and on the detailed pages for each event.
               </p>
 
+			  
+			  
             <div class="row ">
-              <a href="{{site.baseurl}}/ismb">
-              <div class="col s12 m6">
+				<a href="{{site.baseurl}}/ismb">
+				<div class="col s12 m6">
                   <div class="row event center-align">
                       <div class="col s12">
                           <img src="{{ site.baseurl }}/images/logos/ismb.svg" width="40%">
                       </div>
 
                       <div class="col s12 event-details">
-                          <div class="event-name">ISMB 2018</div>
-                          <div class="event-subtitle">Main Conference Event</div>
+                          <div class="event-name">ISMB 2018 - Main Conference Event</div>
                           <div class="event-location">Chicago, United States</div>
                           <div class="event-date">October 2018</div>
                       </div>
@@ -35,20 +35,39 @@ layout: home
                 </div>
                 </a>
 
-              <a href="{{site.baseurl}}/dream">
-              <div class="col s12 m6">
-                  <div class="row event center-align">
-                      <div class="col s12">
-                          <img src="{{ site.baseurl }}/images/logos/dream.svg" width="40%">
-                      </div>
-
-                      <div class="col s12 event-details">
-                          <div class="event-name">DREAM Challenge </div>
-                          <div class="event-subtitle">SMC-RNA BioVis Data Visualization </div>
-                      </div>
+				<div class="col s12 m6">
+					<div class="row">
+                      <a href="{{site.baseurl}}/ieee">
+                        <div class="col s12 eventSplit center-align">
+                            <div class="col s6 center-align">
+                              <span class="helper"></span><img src="{{ site.baseurl }}/images/logos/ieee.svg" width="70%" />
+                            </div>
+                          <div class="col s6 event-details">
+                            <div class="event-name" style="text-align:left;">IEEE VIS 2017</div>
+                            <div class="event-subtitle" style="text-align:left;">Workshop</div>
+                            <div class="event-location" style="text-align:left;">Berlin, Germany</div>
+                            <div class="event-date" style="text-align:left;">October 2018</div>
+                          </div>
+                        </div>
+                      </a>
                   </div>
-                </div>
-                </a>
+					
+					
+					<div class="row">
+                      <a href="{{site.baseurl}}/dream">
+                        <div class="col s12 eventSplit center-align">
+                            <div class="col s6 center-align">
+                              <span class="helper"></span><img src="{{ site.baseurl }}/images/logos/dream.svg" width="70%" />
+                            </div>
+                          <div class="col s6 event-details">
+                            <div class="event-name" style="text-align:left;">DREAM Challenge</div>
+                            <div class="event-subtitle" style="text-align:left;">SMC-RNA BioVis Data Visualization</div>
+                          </div>
+                        </div>
+                      </a>
+                  </div>
+					
+				</div>
             </div>
 
 <!--
