@@ -43,7 +43,7 @@ layout: home
                               <span class="helper"></span><img src="{{ site.baseurl }}/images/logos/ieee.svg" width="70%" />
                             </div>
                           <div class="col s6 event-details">
-                            <div class="event-name" style="text-align:left;">IEEE VIS 2017</div>
+                            <div class="event-name" style="text-align:left;">IEEE VIS 2018</div>
                             <div class="event-subtitle" style="text-align:left;">Workshop</div>
                             <div class="event-location" style="text-align:left;">Berlin, Germany</div>
                             <div class="event-date" style="text-align:left;">October 2018</div>
