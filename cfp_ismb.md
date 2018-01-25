@@ -7,7 +7,7 @@ back_url: ismb
 ---
 
 # Call for Participation: BioVis@ISMB 2018
-**Community of Special Interest (COSI) event at [ISMB 2018](https://www.iscb.org/ismb2018https://www.iscb.org/ismb2018)**  
+**Community of Special Interest (COSI) event at [ISMB 2018](https://www.iscb.org/ismb2018)**  
 **July 6-10, 2018 (the precise day will be announced soon)**  
 **Chicago, USA**
 
@@ -51,11 +51,12 @@ There are several possibilities to contribute to the program of BioVis:
 
 1. ISMB Proceedings - Submission Deadline: January 29, 2018
 2. Abstracts - Submission Deadline: April 5, 2018; Late Poster Submission Deadline: May 1, 2018
-Detailed information can be found on the <a href="{{site.baseurl}}/submission_ismb">BioVis@ISMB Submission Info page</a>.
+
+**Detailed information can be found on the <a href="{{site.baseurl}}/submission_ismb">BioVis@ISMB Submission Info page</a>.**
 
 ## Important Dates
 
-All deadlines are at 23:59 (11:59pm) Pacific time zone.
+All deadlines are at 23:59 (11:59pm) Pacific time zone. [See ISMB Key Dates for full details.](https://www.iscb.org/ismb2018-keydates)
 
 ### Deadlines and Notifications for ISMB Proceedings
 

@@ -2,10 +2,10 @@
 layout: page
 title: BioVis@IEEE Challenges Workshop
 permalink: /biovisChallenges_vis/
-back_title: IEEE VIS 2019
+back_title: IEEE VIS 2018
 back_url: ieeevis
 ---
-## BioVis Challenges Workshop at IEEE VIS 2018, Berline, Germany
+## BioVis Challenges Workshop at IEEE VIS 2018, Berlin, Germany
 
 ### Aims, Scope & Objectives
 

@@ -9,10 +9,10 @@ main_venue: ISMB 2018
 main_venue_url: https://www.iscb.org/ismb2018
 permalink: /ismb/
 ---
-<br>
+<!--<br>
 <div style="background-color: #f2f2f2; border-style: solid; border-color: #009e9d; padding: 5px;">
 <h4> Additional details for BioVis@ISMB 2018 will be announced soon. In the meantime check out last year's event <a href="http://biovis.net/2017/ismb">BioVis@ISMB</a> and our co-located meeting with <a href= "http://biovis.net/2017/ieeevis">IEEE VIS 2017</a> </h4>
-</div>
+</div>-->
 
 <div class="row center-align">
     <div class="col m4 s12 event-page-menu-block">

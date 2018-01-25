@@ -13,7 +13,7 @@ layout: home
         <div class="blue-section col s12">
         <div class="container">
               <p class="hide-on-small-only">
-			  There are multiple ways to participate in BioVis through conferences and ongoing events. This year, the main BioVis event will be at <a href="https://www.iscb.org/about-ismb">ISMB</a> as a <a href="https://www.iscb.org/communities-of-special-interest">Community of Special Interest (COSI)</a> in {{site.ISMBconferencedate}} in Chicago (United States). A smaller workshop event will be event will be held at <a href="http://ieeevis.org" >IEEE VIS</a> in {{site.IEEEconferencedate}} in Berlin (Germany). Throughout the year, BioVis will also be hosting a DREAM challenge event. These events serve as a platform for researchers from biology, bioinformatics, and information visualization fields to increase the impact of data visualization approaches in biology, and to initiate interdisciplinary collaborations. Get involved in our events at a conference or challenge (or all three!). Important dates for submissions are available below, and on the detailed pages for each event.
+			  There are multiple ways to participate in BioVis through conferences and ongoing events. This year, the main BioVis event will be at <a href="https://www.iscb.org/about-ismb">ISMB</a> as a <a href="https://www.iscb.org/communities-of-special-interest">Community of Special Interest (COSI)</a> in {{site.ISMBconferencedate}} in Chicago (United States). A smaller workshop event will be held at <a href="http://ieeevis.org" >IEEE VIS</a> in {{site.IEEEconferencedate}} in Berlin (Germany). Throughout the year, BioVis will also be hosting a DREAM challenge event. These events serve as a platform for researchers from biology, bioinformatics, and information visualization fields to increase the impact of data visualization approaches in biology, and to initiate interdisciplinary collaborations. Get involved in our events at a conference or challenge (or all three!). Important dates for submissions are available below, and on the detailed pages for each event.
               </p>
 
 			  
@@ -29,7 +29,7 @@ layout: home
                       <div class="col s12 event-details">
                           <div class="event-name">ISMB 2018 - Main Conference Event</div>
                           <div class="event-location">Chicago, United States</div>
-                          <div class="event-date">October 2018</div>
+                          <div class="event-date">July 2018</div>
                       </div>
                   </div>
                 </div>
@@ -136,7 +136,7 @@ layout: home
                         <p><strong>ISMB Proceedings Paper Submission Deadline:</strong> {{ site.ismb_paper_submission_deadline }}</p>
                         <!--<p><strong>BioVis Proceedings Paper Submission Deadline (presented at ISMB):</strong> {{ site.biovis_paper_submission_deadline}}</p>-->
 						<p><strong>ISMB Abstract Submission Deadline:</strong>  {{ site.ismb_abstract_submission_deadline }}</p>
-                        <p><strong>BioVis @ ISMB Poster Late Submission Deadline:</strong>  {{ site.ismb_poster_submission_deadline }}</p>
+                        <p><strong>ISMB Late Poster Submission Deadline:</strong>  {{ site.ismb_poster_submission_deadline }}</p>
                         <!--<p><strong>BioVis @ ISMB Highlight Talks Submission Deadline:</strong> {{ site.ismb_highlights_submission_deadline}}</p>-->
 						<p><a href="https://www.iscb.org/ismb2018-keydates">See ISMB Key Dates for more details</a></p>
                 </div>
