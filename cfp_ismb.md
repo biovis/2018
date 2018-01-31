@@ -56,7 +56,7 @@ There are several possibilities to contribute to the program of BioVis:
 
 ## Important Dates
 
-All deadlines are at 23:59 (11:59pm) Pacific time zone. [See ISMB Key Dates for full details.](https://www.iscb.org/ismb2018-keydates)
+[See ISMB Key Dates for full details.](https://www.iscb.org/ismb2018-keydates)
 
 ### Deadlines and Notifications for ISMB Proceedings
 
