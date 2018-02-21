@@ -3,7 +3,7 @@ layout: map_page
 logo: ismb.svg
 title: BioVis at ISMB (BioVis@ISMB)
 location: Chicago, United States
-date: July 2018
+date: July 9th 2018
 main_venue_rln: Co-located
 main_venue: ISMB 2018
 main_venue_url: https://www.iscb.org/ismb2018
@@ -47,7 +47,8 @@ permalink: /ismb/
 
 <div class="row left-align">    
       <div class="col s12 m6">
-            <h4>Important Dates</h4>
+            <h4 id="ismbImportantDates">Important Dates</h4>
+             <p><strong>ISMB COSI date:</strong>  July 9 2018 </p>
             <p><strong>ISMB Proceedings Paper Submission Deadline:</strong>  {{ site.ismb_paper_submission_deadline }}</p>
 			<p><strong>Abstract Submission Deadline:</strong> {{ site.ismb_abstract_submission_deadline}}</p>  
             <p><strong>Late Poster Submission Deadline:</strong>  {{ site.ismb_poster_submission_deadline }}</p>

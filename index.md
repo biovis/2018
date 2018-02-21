@@ -29,7 +29,7 @@ layout: home
                       <div class="col s12 event-details">
                           <div class="event-name">ISMB 2018 - Main Conference Event</div>
                           <div class="event-location">Chicago, United States</div>
-                          <div class="event-date">July 2018</div>
+                          <div class="event-date">July 9th 2018</div>
                       </div>
                   </div>
                 </div>
@@ -133,6 +133,7 @@ layout: home
                         <div class="col s12 m12 center-align">
                             <h4><i class="material-icons" style="font-size: .9em">date_range</i> Important Dates</h4>
                         </div>
+                        <p><strong>ISMB COSI Date:</strong> July 9 2018</p>
                         <p><strong>ISMB Proceedings Paper Submission Deadline:</strong> {{ site.ismb_paper_submission_deadline }}</p>
                         <!--<p><strong>BioVis Proceedings Paper Submission Deadline (presented at ISMB):</strong> {{ site.biovis_paper_submission_deadline}}</p>-->
 						<p><strong>ISMB Abstract Submission Deadline:</strong>  {{ site.ismb_abstract_submission_deadline }}</p>

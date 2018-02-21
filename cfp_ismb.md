@@ -6,13 +6,13 @@ back_title: ISMB
 back_url: ismb
 ---
 
-# Call for Participation: BioVis@ISMB 2018
+## Call for Participation: BioVis@ISMB 2018
 **Community of Special Interest (COSI) event at [ISMB 2018](https://www.iscb.org/ismb2018)**  
-**July 6-10, 2018 (the precise day will be announced soon)**  
-**Chicago, USA**
+**Date: {{ site.ISMBconferencedate }}**  
+**Location: Chicago, USA**
 
 
-## Aims and Scope
+### Aims and Scope
 
 The rapidly expanding field of biology creates enormous challenges for data visualization techniques that enable researchers to gain insight from their large and highly complex data sets.
 
@@ -20,12 +20,12 @@ BioVis @ ISMB is an interdisciplinary event covering all aspects of visualizatio
 
 We invite submissions of original research articles as well as abstract submissions.
 
-## Symposium Format
+### Symposium Format
 
 BioVis will be a one-day single-track event at [ISMB](https://www.iscb.org/ismb2018). The event will feature keynote talks, paper and abstract presentations, and posters/demos. 
  
 
-## Topics
+### Topics
 
 We invite contributions on all aspects of data visualization in biology, from molecular to cell, tissue, organism and population biology. Suggested topics for paper and poster submissions include, but are not limited to:
 
@@ -45,7 +45,7 @@ We invite contributions on all aspects of data visualization in biology, from mo
  * Biological atlases and metadata
  * Processes for interdisciplinary collaboration between biology and visualization.
 
-## Submission Types and Criteria
+### Submission Types and Criteria
 
 There are several possibilities to contribute to the program of BioVis:
 
@@ -54,23 +54,23 @@ There are several possibilities to contribute to the program of BioVis:
 
 **Detailed information can be found on the <a href="{{site.baseurl}}/submission_ismb">BioVis@ISMB Submission Info page</a>.**
 
-## Important Dates
+### Important Dates
 
 [See ISMB Key Dates for full details.](https://www.iscb.org/ismb2018-keydates)
 
-### Deadlines and Notifications for ISMB Proceedings
+#### Deadlines and Notifications for ISMB Proceedings
 
 Submission Deadline: January 29, 2018  
 Conditional Acceptance Notification: February 28, 2018  
 Revision Deadline: March 22, 2018  
 Final Acceptance Notification: April 2, 2018  
 
-### Deadlines and Notifications for Abstracts (Talks and/or Posters)
+#### Deadlines and Notifications for Abstracts (Talks and/or Posters)
 
 Submission Deadline: April 5, 2018  
 Acceptance Notification: April 26, 2018
 
-### Deadlines and Notifications for Late Posters
+#### Deadlines and Notifications for Late Posters
 
 Submission Deadline: May 1, 2018  
 Acceptance Notification: May 18, 2018
