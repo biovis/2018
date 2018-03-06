@@ -27,7 +27,7 @@ menu: main
 
 ### Abstract chairs
 [Thomas Höllt](https://graphics.tudelft.nl/thomas-hollt/), TU Delft, The Netherlands<br />
-[Michael Krone](http://www.visus.uni-stuttgart.de/institut/personen/wissenschaftliche-mitarbeiter/michael-krone.html), University of Stuttgart, Germany<br/>
+[Michael Krone](https://www.visus.uni-stuttgart.de/institut/personen/Krone/), University of Stuttgart, Germany<br/>
 
 ### ISMB Liaison Chairs
 [Jan Aerts](http://vda-lab.be), KU Leuven, Belgium<br />
