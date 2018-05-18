@@ -5,15 +5,7 @@ permalink: /program_ismb/
 back_title: ISMB
 back_url: ismb
 ---
-<!--
-<div style="background-color: #f2f2f2; border-style: solid; border-color: #009e9d; padding: 5px;">
-<h3>BioVis@ISMB 2017 has now concluded</h3>
-<p>Check back next year for more opportunities to participate in BioVis@ISMB. We also have a workshop being held in conjunction with IEEE VIS, <a href="http://biovis.net/2017/ieeevis/">BioVis@VIS</a>, that will take place in October 2017. </p>
-</div>
-<div style="background-color: #FFFFFF; border-style: solid; border-color: #FC5B3F; padding: 5px; margin-top:5px;">
-<h4>All accepted papers are accessible via  <a href="https://bmcbioinformatics.biomedcentral.com/articles/supplements/volume-18-supplement-10"> BMC Bioinformatics</a> </h4>
-</div>
--->
+
 
 ## BioVis@ISMB 2018 Program (Preliminary)
 
@@ -21,21 +13,18 @@ back_url: ismb
 
 ### Program
 
-<!--
-<em>**BioVis will take place in [Hall 4](https://www.iscb.org/cms_addon/conferences/ismbeccb2017/biovis.php) at the Prague Congress Centre**</em>
-<br>
--->
-
 The symposium will be a one-day single-track event at ISMB. The event will feature keynote and invited talks, paper sessions, highlight talks, workshops, and posters. 
-<!--Please see the [call for participation]({{site.baseurl}}/cfp_ismb/#subType) for definitions of the different of submission types and the reviewing process.-->
 <br>
 <br>
+
+**DETAILED PROGRAM TO BE POSTED SOON**
+
 <!--
 A full list of accepted papers is available [here]({{site.baseurl}}/papers_ismb_accepted/).
 <br>
 -->
 
-<!-- WELCOME --->
+<!-- WELCOME
 <div>
     <div class="sumTime2">10:00 - 10:15</div>
     <div>
@@ -45,8 +34,9 @@ A full list of accepted papers is available [here]({{site.baseurl}}/papers_ismb_
 </div>
 
 <hr class="style-one">
+ --->
 
-<!-- SESSION 1 --->
+<!-- SESSION 1 
 
 <div>
     <div class="sumTime2"> 10:15 - 12:35</div>
@@ -75,6 +65,7 @@ A full list of accepted papers is available [here]({{site.baseurl}}/papers_ismb_
     </div>
 	
 </div>
+--->
 
 <!--
 {% for paper in site.data.program2017%}
@@ -97,7 +88,7 @@ A full list of accepted papers is available [here]({{site.baseurl}}/papers_ismb_
 {% endfor %}
 -->
 
-<!-- SESSION 2 --->
+<!-- SESSION 2
 <hr class="style-one">
 
 <div>
@@ -128,6 +119,7 @@ A full list of accepted papers is available [here]({{site.baseurl}}/papers_ismb_
         <div class="sumContent" style="font-size:15px;color:#21a186;">Abstract Presentations</div>
     </div>
 </div>
+ --->
 
 <!--
 {% for paper in site.data.program2017%}
@@ -150,7 +142,7 @@ A full list of accepted papers is available [here]({{site.baseurl}}/papers_ismb_
 {% endfor %}
 -->
 
-<!-- SESSION 3 --->
+<!-- SESSION 3
 <hr class="style-one">
 
 <div>
@@ -171,7 +163,7 @@ A full list of accepted papers is available [here]({{site.baseurl}}/papers_ismb_
         <div class="sumContent" style="font-size:15px;color:#21a186;">Abstract Presentations</div>
     </div>
 </div>
-
+ --->
 <!--
 {% for paper in site.data.program2017%}
 {% if paper.session == "session3"%}
@@ -193,7 +185,7 @@ A full list of accepted papers is available [here]({{site.baseurl}}/papers_ismb_
 {% endfor %}
 -->
 
-<!-- CLOSING REMARKS AND POSTER SESSION -->
+<!-- CLOSING REMARKS AND POSTER SESSION 
 <hr class="style-one">
 <div>
     <div class="sumTime2"><span style="color:red">17:40 - 18:00</span></div>
@@ -210,8 +202,46 @@ A full list of accepted papers is available [here]({{site.baseurl}}/papers_ismb_
     <div class="sumTime2">18:00 - 19:00</div>
     <div>
         <div class="sumContent">Poster Session</div>
-        <!--
+       
 		<div class="sumDetail" style="padding-left:120px;"><a href="https://www.iscb.org/cms_addon/conferences/ismbeccb2017/posterlist.php?cat=D?">BioVis posters</a></div>
-		-->
+		
+    </div>
+</div>
+-->
+
+
+
+## Invited Speakers
+
+
+<h3> Keynote Speaker</h3>
+<a name="martin"></a>
+<div class="talk">
+    <div class="ttitle">0ne successful data exploration—many explanations
+        <!--{% if talk.slides %}
+        <span class="tspeaker" style="float: right;"><a href="{{ site.baseurl }}/files/{{talk.slides}}">Download
+            Slides</a></span>
+        {% endif %}-->
+    </div>
+    <div><span class="tspeaker"><a href="http://mkweb.bcgsc.ca/">Martin Krzywinski</a></span>, <span> Michael Smith Genome Science Centre </span></div>
+
+    <div class="tportrait"><img src="{{ site.baseurl}}/images/speakers/martin_krzywinski-2.jpg" style="width: 250px;" alt="E.Franzosa">
+    </div>
+
+    <div class="tbioabstract">
+
+        <div class="tabstract"><b>Abstract:</b>
+        Without good practices in data exploration, we cannot have answers. Without good design practices, we cannot have good explanations of these answers. This is confounded by the fact that most answers are neither self-explanatory nor immediately obviously correct and as such their reception and impact is directly related to the quality of the explanation.
+
+By now, most of us are familiar with the guidelines for visualization and the many human perception studies that can help us make good choices in encodings, colors, and type. The principles that underpin these choices are now generally well accepted and implemented in many applications. But although it is now easy to make a pile of plots, it is generally very challenging to determine how to sort through the pile to select and order a set for an engaging and expository data presentation.  
+
+The process of design, which is a kind of choreography for the page, can be of great help in assembling individual data visualizations into a cohesive explanation across many levels of detail. In the same way that visualizations are a way to organize data, design is a way to organize visualizations. 
+
+I will share with you my experiences in combining science, visualization and design to create explanations, promote engagement, inspire imagination and, where possible, provide visual support in the often vexing process of research. 
+        </div>
+
+        <div class="tbio"><b>Bio:</b>
+        Martin Krzywinski is known for his work in bioinformatics, data visualization and the interface of science and art. He applies design, both data and artistic, to assist discovery, explanation and engagement with scientific data and concepts. His information graphics have appeared in the New York Times, Wired, Scientific American and covers of numerous books and scientific journals such as Nature and Genome Research. 
+        </div>
     </div>
 </div>
