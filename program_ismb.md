@@ -129,7 +129,7 @@ A full list of accepted papers is available [here]({{site.baseurl}}/papers_ismb_
 <!-- CLOSING REMARKS AND POSTER SESSION -->
 <hr class="style-one">
 <div>
-    <div class="sumTime2"><span style="color:red">5:50 - 6:00</span></div>
+    <div class="sumTime2">5:50 - 6:00</div>
     <div>
         <div class="sumContent">Closing Remarks</div>
           <div class="sumDetail" style="padding-left:120px;"><i>Kay Nieselt</i></div>
