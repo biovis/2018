@@ -3,7 +3,6 @@ layout: map_page
 logo: ismb.svg
 title: BioVis at ISMB (BioVis@ISMB)
 location: Chicago, United States
-date: July 9th 2018
 main_venue_rln: Co-located
 main_venue: ISMB 2018
 main_venue_url: https://www.iscb.org/ismb2018
@@ -36,8 +35,14 @@ permalink: /ismb/
 
     <div class="col m4 s12 event-page-menu-block">
      <i class="material-icons large">list</i>
-     <h3>Program</h3>
-     <a class="btn waves-effect waves-light" href="{{site.baseurl}}/program_ismb" type="submit" name="action">View Program</a>
+     <h3>Main Program</h3>
+     <a class="btn waves-effect waves-light" href="{{site.baseurl}}/program_ismb" type="submit" name="action">View Main Program</a>
+    </div>
+	
+	<div class="col m4 s12 event-page-menu-block">
+     <i class="material-icons large">list</i>
+     <h3>Tutorial (July 6, 2018)</h3>
+     <a class="btn waves-effect waves-light" href="https://www.iscb.org/ismb2018-program/ismb2018-tutorials#pm5" type="submit" name="action">More Information</a>
     </div>
 </div>
 

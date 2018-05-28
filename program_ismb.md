@@ -17,58 +17,35 @@ The symposium will be a one-day single-track event at ISMB. The event will featu
 <br>
 <br>
 
-**DETAILED PROGRAM TO BE POSTED SOON**
-
 <!--
 A full list of accepted papers is available [here]({{site.baseurl}}/papers_ismb_accepted/).
 <br>
 -->
 
-<!-- WELCOME
+<!-- WELCOME --->
 <div>
-    <div class="sumTime2">10:00 - 10:15</div>
+    <div class="sumTime2">10:15 - 10:20</div>
     <div>
         <div class="sumContent">BioVis Welcome</div>
-          <div class="sumDetail" style="padding-left:120px;"><i>Cydney and Marc</i></div>
+          <div class="sumDetail" style="padding-left:120px;"><i>Marc Streit</i></div>
     </div>
 </div>
 
 <hr class="style-one">
- --->
 
-<!-- SESSION 1 
+
+<!-- SESSION 1 --->
 
 <div>
-    <div class="sumTime2"> 10:15 - 12:35</div>
+    <div class="sumTime2"> 10:20 - 12:40</div>
     <div>
         <div class="sumContent">1st Session</div>
     </div>
-    <div class="sumDetail" style="padding-left:120px;"><i>Session Chair: TBA</i> </div>
+    <div class="sumDetail" style="padding-left:120px;"><i>Session Chair: Marc Streit</i> </div>
     <div class="sumDetail" style="padding-left:120px;font-size:12px;"><i>(* indicates presenting author)</i> </div>
 </div>
-<div>
-    <div class="sumTime2" style="font-size:15px;color:#21a186;">10:15 - 11:15</div>
-     <div>
-        <div class="sumContent" style="font-size:15px;color:#21a186;">Keynote</div>
-        <div class="sumContent" style="padding-left:120px;font-size:15px;color:#21a186;"></div>
-        <div class="sumDetail" style="padding-left:120px;font-size:15px;color:#21a186;"><i>Speaker: <b>Martin Krzywinski</b> British Columbia Cancer Agency, Canada</i></div>
-    </div>
-	
-	<div class="sumTime2" style="font-size:15px;color:#21a186;">11:15 - 11:35</div>
-    <div>
-        <div class="sumContent" style="font-size:15px;color:#21a186;">Full Paper Presentation</div>
-    </div>
 
-	<div class="sumTime2" style="font-size:15px;color:#21a186;">11:35 - 12:35</div>
-    <div>
-        <div class="sumContent" style="font-size:15px;color:#21a186;">Abstract Presentations</div>
-    </div>
-	
-</div>
---->
-
-<!--
-{% for paper in site.data.program2017%}
+{% for paper in site.data.program2018%}
 {% if paper.session == "session1"%}
   <div>
       <div class="sumTime" style="padding-top:5px;"> {{paper.start}} - {{paper.end}}</div>
@@ -86,43 +63,20 @@ A full list of accepted papers is available [here]({{site.baseurl}}/papers_ismb_
   </div>
 {% endif %}
 {% endfor %}
--->
 
-<!-- SESSION 2
+<!-- SESSION 2 -->
 <hr class="style-one">
 
 <div>
-    <div class="sumTime2">14:00 - 16:00</div>
+    <div class="sumTime2">2:00 - 4:00</div>
     <div>
         <div class="sumContent">2nd Session</div>
     </div>
-    <div class="sumDetail" style="padding-left:120px;"><i>Session Chair: TBA</i> </div>
+    <div class="sumDetail" style="padding-left:120px;"><i>Session Chair: G. Elisabeta Marai</i> </div>
     <div class="sumDetail" style="padding-left:120px;font-size:12px;"><i>(* indicates presenting author)</i> </div>
 </div>
 
-
-<div>
-    <div class="sumTime2" style="font-size:15px;color:#21a186;">14:00 - 15:00</div>
-    <div>
-        <div class="sumContent" style="font-size:15px;color:#21a186;">Keynote</div>
-        <div class="sumContent" style="padding-left:120px;font-size:15px;color:#21a186;"></div>
-        <div class="sumDetail" style="padding-left:120px;font-size:15px;color:#21a186;"><i>Speaker: TBA</i></div>
-    </div>
-	
-	<div class="sumTime2" style="font-size:15px;color:#21a186;">15:00 - 15:20</div>
-    <div>
-        <div class="sumContent" style="font-size:15px;color:#21a186;">Full Paper Presentation</div>
-    </div>
-	
-	<div class="sumTime2" style="font-size:15px;color:#21a186;">15:20 - 16:00</div>
-    <div>
-        <div class="sumContent" style="font-size:15px;color:#21a186;">Abstract Presentations</div>
-    </div>
-</div>
- --->
-
-<!--
-{% for paper in site.data.program2017%}
+{% for paper in site.data.program2018%}
 {% if paper.session == "session2"%}
   <div>
       <div class="sumTime" style="padding-top:5px;"> {{paper.start}} - {{paper.end}}</div>
@@ -140,32 +94,20 @@ A full list of accepted papers is available [here]({{site.baseurl}}/papers_ismb_
   </div>
 {% endif %}
 {% endfor %}
--->
 
-<!-- SESSION 3
+<!-- SESSION 3 -->
 <hr class="style-one">
 
 <div>
-    <div class="sumTime2">16:40 - 18:00</div>
+    <div class="sumTime2">4:40 - 5:50</div>
     <div>
         <div class="sumContent">3rd Session</div>
     </div>
-    <div class="sumDetail" style="padding-left:120px;"><i>Session Chair: TBA</i> </div>
-    <div class="sumDetail" style="padding-left:120px;font-size:12px;"><i>(* indicates presenting author)</i> </div>
-	
-	<div class="sumTime2" style="font-size:15px;color:#21a186;">16:40 - 17:20</div>
-    <div>
-        <div class="sumContent" style="font-size:15px;color:#21a186;">Tutorials / Demos</div>
-    </div>
-	
-	<div class="sumTime2" style="font-size:15px;color:#21a186;">17:20 - 18:00</div>
-    <div>
-        <div class="sumContent" style="font-size:15px;color:#21a186;">Abstract Presentations</div>
-    </div>
+    <div class="sumDetail" style="padding-left:120px;"><i>Session Chair: Kay Nieselt</i> </div>
+    <div class="sumDetail" style="padding-left:120px;font-size:12px;"><i>(* indicates presenting author)</i> </div>	
 </div>
- --->
-<!--
-{% for paper in site.data.program2017%}
+
+{% for paper in site.data.program2018%}
 {% if paper.session == "session3"%}
   <div>
       <div class="sumTime" style="padding-top:5px;"> {{paper.start}} - {{paper.end}}</div>
@@ -183,15 +125,14 @@ A full list of accepted papers is available [here]({{site.baseurl}}/papers_ismb_
   </div>
 {% endif %}
 {% endfor %}
--->
 
-<!-- CLOSING REMARKS AND POSTER SESSION 
+<!-- CLOSING REMARKS AND POSTER SESSION -->
 <hr class="style-one">
 <div>
-    <div class="sumTime2"><span style="color:red">17:40 - 18:00</span></div>
+    <div class="sumTime2"><span style="color:red">5:50 - 6:00</span></div>
     <div>
         <div class="sumContent">Closing Remarks</div>
-          <div class="sumDetail" style="padding-left:120px;"><i>Cydney and Marc</i></div>
+          <div class="sumDetail" style="padding-left:120px;"><i>Kay Nieselt</i></div>
     </div>
 </div>
 
@@ -199,7 +140,7 @@ A full list of accepted papers is available [here]({{site.baseurl}}/papers_ismb_
 
 
 <div>
-    <div class="sumTime2">18:00 - 19:00</div>
+    <div class="sumTime2">6:00 - 7:00</div>
     <div>
         <div class="sumContent">Poster Session</div>
        
@@ -207,7 +148,6 @@ A full list of accepted papers is available [here]({{site.baseurl}}/papers_ismb_
 		
     </div>
 </div>
--->
 
 
 
