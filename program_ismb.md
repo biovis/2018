@@ -52,7 +52,7 @@ A full list of accepted papers is available [here]({{site.baseurl}}/papers_ismb_
       {% if paper.doi != nil %}
       <div>
           <div class="ttile" style="padding-left:120px; padding-top:5px;">
-          <b><a href="{{paper.doi}}"> [{{paper.type}}] </a></b> <b>{{paper.title}}</b></div>
+          <b><!--<a href="{{paper.doi}}">--> [{{paper.type}}] <!--</a>--></b> <b>{{paper.title}}</b></div>
       </div>
       {% else %}
       <div>
@@ -83,7 +83,7 @@ A full list of accepted papers is available [here]({{site.baseurl}}/papers_ismb_
       {% if paper.doi != nil %}
       <div>
           <div class="ttile" style="padding-left:120px; padding-top:5px;">
-          <b><a href="{{paper.doi}}"> [{{paper.type}}] </a></b> <b>{{paper.title}}</b></div>
+          <b><!--<a href="{{paper.doi}}">--> [{{paper.type}}] <!--</a>--></b> <b>{{paper.title}}</b></div>
       </div>
       {% else %}
       <div>
@@ -114,7 +114,7 @@ A full list of accepted papers is available [here]({{site.baseurl}}/papers_ismb_
       {% if paper.doi != nil %}
       <div>
           <div class="ttile" style="padding-left:120px; padding-top:5px;">
-          <b><a href="{{paper.doi}}"> [{{paper.type}}] </a></b> <b>{{paper.title}}</b></div>
+          <b><!--<a href="{{paper.doi}}">--> [{{paper.type}}] <!--</a>--></b> <b>{{paper.title}}</b></div>
       </div>
       {% else %}
       <div>
@@ -144,7 +144,7 @@ A full list of accepted papers is available [here]({{site.baseurl}}/papers_ismb_
     <div>
         <div class="sumContent">Poster Session</div>
        
-		<div class="sumDetail" style="padding-left:120px;"><a href="https://www.iscb.org/cms_addon/conferences/ismbeccb2017/posterlist.php?cat=D?">BioVis posters</a></div>
+		<div class="sumDetail" style="padding-left:120px;"><a href="https://www.iscb.org/cms_addon/conferences/ismb2018/posters.php?track=BioVis&session=B">BioVis posters</a></div>
 		
     </div>
 </div>
