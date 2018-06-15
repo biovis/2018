@@ -153,8 +153,7 @@ A full list of accepted papers is available [here]({{site.baseurl}}/papers_ismb_
 
 ## Invited Speakers
 
-
-<h3> Keynote Speaker</h3>
+<!--<h3>Keynote Speaker</h3>-->
 <a name="martin"></a>
 <div class="talk">
     <div class="ttitle">0ne successful data exploration—many explanations
@@ -165,7 +164,7 @@ A full list of accepted papers is available [here]({{site.baseurl}}/papers_ismb_
     </div>
     <div><span class="tspeaker"><a href="http://mkweb.bcgsc.ca/">Martin Krzywinski</a></span>, <span> Michael Smith Genome Science Centre </span></div>
 
-    <div class="tportrait"><img src="{{ site.baseurl}}/images/speakers/martin_krzywinski-2.jpg" style="width: 250px;" alt="E.Franzosa">
+    <div class="tportrait"><img src="{{ site.baseurl}}/images/speakers/martin_krzywinski-2.jpg" style="width: 250px;" alt="M.Krzywinski">
     </div>
 
     <div class="tbioabstract">
@@ -182,6 +181,31 @@ I will share with you my experiences in combining science, visualization and des
 
         <div class="tbio"><b>Bio:</b>
         Martin Krzywinski is known for his work in bioinformatics, data visualization and the interface of science and art. He applies design, both data and artistic, to assist discovery, explanation and engagement with scientific data and concepts. His information graphics have appeared in the New York Times, Wired, Scientific American and covers of numerous books and scientific journals such as Nature and Genome Research. 
+        </div>
+    </div>
+</div>
+
+<a name="sheelagh"></a>
+<div class="talk">
+    <div class="ttitle">The Changing Nature of Collaboration in Visualization
+        <!--{% if talk.slides %}
+        <span class="tspeaker" style="float: right;"><a href="{{ site.baseurl }}/files/{{talk.slides}}">Download
+            Slides</a></span>
+        {% endif %}-->
+    </div>
+    <div><span class="tspeaker"><a href="http://pages.cpsc.ucalgary.ca/~sheelagh/">Sheelagh Carpendale</a></span>, <span> University of Calgary </span></div>
+
+    <div class="tportrait"><img src="{{ site.baseurl}}/images/speakers/sheelagh_carpendale-2.jpg " style="width: 250px;" alt="S.Carpendale">
+    </div>
+
+    <div class="tbioabstract">
+
+        <div class="tabstract"><b>Abstract:</b>
+        As a visualization researcher, one is practically always collaborating. That is, we, who focus on visualizing data, generally do not generate data. Thus, we collaborate with those people who do generate data. Over the years, I have had many different collaboration experiences. Through these experiences, I have learned much - not only about different types of data but also about different types of collaboration. I will recount some of these collaboration variations, discussing how different ways of collaborating have led to different types of results. In particular, I am increasingly interested in immersive or trans-disciplinary collaboration and think that it is important for our research communities to more fully support these extensive collaborations.
+        </div>
+
+        <div class="tbio"><b>Bio:</b>
+       Sheelagh Carpendale is a Full Professor at the University of Calgary where she holds a Tier 1 Canada Research Chair in Information Visualization and an NSERC/AITF/SMART Industrial Research Chair in Interactive Technologies. She has many received awards including the E.W.R. NSERC STEACIE (a major national science award), a BAFTA (British equivalent of an Oscar); the Alberta ASTech Award, the Canadian Human Computer Communications Society Achievement Award, and was featured in Canada’s Science, Technology and Innovation Council - State of the Nation 2012 - report. Dr. Carpendale directs the Innovations in Visualization (InnoVis) research group and initiated the interdisciplinary graduate program, Computational Media Design. She is an internationally renowned leader in both information visualization and large display interaction. Her research focuses on information visualization, interaction design, and qualitative empirical research. By studying how people interact with information both in work and social settings, she works towards designing more natural, accessible and understandable interactive visual representations of data. She combines information visualization, visual analytics and human-computer interaction with innovative new interaction techniques to better support the everyday practices of people who are viewing, representing, and interacting with information. 
         </div>
     </div>
 </div>

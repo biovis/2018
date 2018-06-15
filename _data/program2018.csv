@@ -1,4 +1,4 @@
-id,event,start,end,session,sessionTitle,type,title,authors,presenter,abstract,image,doi
+﻿id,event,start,end,session,sessionTitle,type,title,authors,presenter,abstract,image,doi
 1,BioVis,10:20,11:20,session1,Session 1,Keynote,0ne successful data exploration—many explanations,Martin Krzywinski,Martin Krzywinski,TBA,TBA,TBA
 2,BioVis,11:20,11:40,session1,Session 1,Full Paper,NeuroMorphoVis: a collaborative framework for visualization and analysis of neuronal morphology skeletons reconstructed from microscopy stacks,"Marwan Abdellah, Juan Hernando, Stefan Eilemann, Nicolas Antille, Samuel Lapere, Henry Markram and Felix Schürmann",TBA,TBA,TBA,TBA
 3,BioVis,11:40,11:50,session1,Session 1,Abstract,starmap: Immersive visualisation of single cell data using smartphone-enabled virtual reality,"Andrian Yang, Yu Yao, Jianfu Li and Joshua Ho",TBA,TBA,TBA,TBA
@@ -7,7 +7,7 @@ id,event,start,end,session,sessionTitle,type,title,authors,presenter,abstract,im
 6,BioVis,12:10,12:20,session1,Session 1,Abstract,BioBlox – A suite of computer games for protein docking for crowd-sourcing scientific solutions and education via mobiles and virtual reality,"Pedro Quijada Leyton Quijada Leyton, Ioannis Filippis Filippis, Elio de Berardinis, Federico Soncini, Ciaran Wilson, Suhail A Islam, Pablo Larenas Larenas, Alessia David, Richard Leinfellner, Andy Thomason, William Latham, Frederic Fol Leymarie and Michael J E Sternberg",TBA,TBA,TBA,TBA
 7,BioVis,12:20,12:30,session1,Session 1,Abstract,Visualization methods for RNA-sequencing data analysis,Lindsay Rutter and Dianne Cook,TBA,TBA,TBA,TBA
 8,BioVis,12:30,12:40,session1,Session 1,Abstract,HebbPlot: A new tool for visualizing histone signatures,Alfredo Velasco Ii and Hani Z. Girgis,TBA,TBA,TBA,TBA
-9,BioVis,2:20,3:00,session2,Session 2,Keynote,TBA,Sheelagh Carpendale,Sheelagh Carpendale,TBA,TBA,TBA
+9,BioVis,2:20,3:00,session2,Session 2,Keynote,The Changing Nature of Collaboration in Visualization,Sheelagh Carpendale,Sheelagh Carpendale,TBA,TBA,TBA
 10,BioVis,3:00,3:20,session2,Session 2,Full Paper,The Kappa platform for rule-based modeling,"Pierre Boutillier, Mutaamba Maasha, Xing Li, Hector Medina-Abarca, Jean Krivine, Jerome Feret, Ioana Cristescu, Angus Forbes and Walter Fontana",TBA,TBA,TBA,TBA
 11,BioVis,3:20,3:30,session2,Session 2,Abstract,Feature-Centric Visual Exploration of Genome Interaction Maps,"Fritz Lekschas, Benjamin Bach, Peter Kerpedjiev, Michael Behrisch, Nils Gehlenborg and Hanspeter Pfister",TBA,TBA,TBA,TBA
 12,BioVis,3:30,3:40,session2,Session 2,Abstract,Scaling Up the Genome Browser,"Danielle Nguyen, Peter Kerpedjiev and Nils Gehlenborg",TBA,TBA,TBA,TBA
