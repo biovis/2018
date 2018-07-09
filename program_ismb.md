@@ -7,13 +7,11 @@ back_url: ismb
 ---
 
 
-## BioVis@ISMB 2018 Program (Preliminary)
+## BioVis@ISMB 2018 Program
 
-### July 9, 2018
+### July 9, 2018 (room Columbus IJ)
 
-### Program
-
-The symposium will be a one-day single-track event at ISMB. The event will feature keynote and invited talks, paper sessions, highlight talks, workshops, and posters. 
+The symposium will be a one-day single-track event at ISMB (room Columbus IJ). The event will feature keynote and invited talks, paper sessions, highlight talks, workshops, and posters. 
 <br>
 <br>
 
