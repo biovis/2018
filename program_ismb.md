@@ -40,7 +40,7 @@ A full list of accepted papers is available [here]({{site.baseurl}}/papers_ismb_
         <div class="sumContent">1st Session</div>
     </div>
     <div class="sumDetail" style="padding-left:120px;"><i>Session Chair: Marc Streit</i> </div>
-    <div class="sumDetail" style="padding-left:120px;font-size:12px;"><i>(* indicates presenting author)</i> </div>
+    <!-- <div class="sumDetail" style="padding-left:120px;font-size:12px;"><i>(* indicates presenting author)</i> </div> -->
 </div>
 
 {% for paper in site.data.program2018%}
@@ -71,7 +71,7 @@ A full list of accepted papers is available [here]({{site.baseurl}}/papers_ismb_
         <div class="sumContent">2nd Session</div>
     </div>
     <div class="sumDetail" style="padding-left:120px;"><i>Session Chair: G. Elisabeta Marai</i> </div>
-    <div class="sumDetail" style="padding-left:120px;font-size:12px;"><i>(* indicates presenting author)</i> </div>
+     <!-- <div class="sumDetail" style="padding-left:120px;font-size:12px;"><i>(* indicates presenting author)</i> </div> -->
 </div>
 
 {% for paper in site.data.program2018%}
@@ -102,7 +102,7 @@ A full list of accepted papers is available [here]({{site.baseurl}}/papers_ismb_
         <div class="sumContent">3rd Session</div>
     </div>
     <div class="sumDetail" style="padding-left:120px;"><i>Session Chair: Kay Nieselt</i> </div>
-    <div class="sumDetail" style="padding-left:120px;font-size:12px;"><i>(* indicates presenting author)</i> </div>	
+     <!-- <div class="sumDetail" style="padding-left:120px;font-size:12px;"><i>(* indicates presenting author)</i> </div> -->
 </div>
 
 {% for paper in site.data.program2018%}
