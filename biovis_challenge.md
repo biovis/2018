@@ -29,5 +29,6 @@ We are in the process of determining the speakers for the workshop and will post
 
 
 ### Workshop Organizers
-Cagatay Turkay, City, University of London, UK
+
+Cagatay Turkay, City, University of London, UK<br>
 Nils Gehlenborg, Harvard Medical School, USA
