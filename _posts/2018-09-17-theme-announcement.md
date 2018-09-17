@@ -9,4 +9,4 @@ back_url: /ieeevis
 author: Jan Byška
 ---
 
-Workshop theme announced, details <a href="http://biovis.net/2018/biovisChallenges_vis/">here</a>.
+Workshop theme was announced, you can find more details <a href="http://biovis.net/2018/biovisChallenges_vis/">here</a>.
