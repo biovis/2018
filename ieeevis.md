@@ -3,17 +3,17 @@ layout: map_page
 logo: ieee.svg
 title: BioVis at IEEE VIS (BioVis@VIS)
 location: Berlin, Germany
-date: October 2018
+date: 22 October 2018
 main_venue_rln: In conjunction
 main_venue: IEEE VIS 2018
 main_venue_url: http://ieeevis.org/
 permalink: /ieeevis/
 ---
 
-<br>
+<!--<br>
 <div style="background-color: #f2f2f2; border-style: solid; border-color: #009e9d; padding: 5px;">
 <h4> Additional details for BioVis@VIS 2018 will be announced soon. In the meantime check out last year's event <a href="http://biovis.net/2017/ieeevis">BioVis@VIS</a> and our co-located meeting with <a href= "http://biovis.net/2017/ismb">ISMB 2017</a> </h4>
-</div>
+</div>-->
 
 
 <div class="row center-align">
@@ -37,7 +37,7 @@ permalink: /ieeevis/
 <div class="row left-align">
     <div class="col s12 m6">
         <h4>Important Dates</h4>
-        <p> TO BE ANNOUNCED</p>
+        <p>Workshop date: October 22nd, 2018</p>
     </div>
 
     <div class="col s12 m6">
