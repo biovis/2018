@@ -78,9 +78,9 @@ Note: This is a rough agenda and the timings might slightly vary due to the dyna
 
 <div class="talk">
     <div class="ttitle">Health Data Diversity and Complexity: Visualization Challenges for Longitudinal Cohort Analysis</div>
-    <div><span class="tspeaker"><a href="">David Gotz</a></span>, <span>University of North Carolina at Chapel Hill</span></div>
+    <div><span class="tspeaker"><a href="http://gotz.web.unc.edu/">David Gotz</a></span>, <span>University of North Carolina at Chapel Hill</span></div>
 
-    <!--div class="tportrait"><img src="{{ site.baseurl}}/files/warner-jeremy.jpg" style="width: 150px;" alt="J.Warner"></div-->
+    <div class="tportrait"><img src="{{ site.baseurl}}/images/speakers/gotz_david.jpg" style="width: 150px;" alt="David Gotz"></div>
 
     <div class="tbioabstract">
 
