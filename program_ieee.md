@@ -6,93 +6,88 @@ back_title: IEEE VIS
 back_url: ieeevis
 ---
 
-** NEEDS TO BE UPDATED FOR 2018 CONTENT, CURRENTLY JUST PLACE HOLDER ** 
-
 ## BioVis Challenges Workshop Agenda
 
 ### Workshop Scope
-This year’s workshop will be focusing on challenges related to the **Visualization of Cancer Genomics Data**. Thanks to the decreasing cost of next-generation sequencing, and the efforts by major consortiums including The Cancer Genome Atlas ([TCGA](https://cancergenome.nih.gov/)) and the International Cancer Genome Consortium ([ICGC](http://icgc.org/)), cancer genomics continues to be a field with exciting developments and findings, but also leading to increasing number of challenges that provide opportunities for visualisation to make a difference within the analysis of the data generated.
+The number of individuals in studies that are collecting clinical, genomic, and other biomedical data has been growing rapidly in recent years. For example, the [UK Biobank](https://www.ukbiobank.ac.uk/) currently makes data for 500,000 individuals available and the National Institutes of Health [All of Us Program](https://allofus.nih.gov/) aims to collect data on a million individuals over the next few years. Similar data collection and organization efforts are also taking place at hospitals and private companies in the pharma and healthcare sectors. The breadth of these collections is also growing significantly with the increasing availability of different data channels and personal sensors, adding new layers of richness and valuable information.
 
-Within this domain, there are already a multitude of well-known challenges, such as comparing the genomic sequences, and transcriptomes of tumor cells with those of normal cells, or the comprehensive characterisation of different types and subtypes of cancer, as well as several clinical applications such as improved diagnosis of cancer, prenatal screening, or the design of targeted therapeutic agents, to name a few. There are several cancer genomics data sets that are readily available ([GENIE](http://www.aacr.org/Research/Research/Pages/aacr-project-genie.aspx), [TCGA](https://cancergenome.nih.gov/)) and several platforms provide APIs to access such data sets (e.g. [cBio Portal](http://www.cbioportal.org/), [GDC](https://portal.gdc.cancer.gov/)).
+In this workshop, we will discuss what unique data visualization challenges visualization of data from such studies are posing and how the visualization community can contribute to the success of those studies. This will include questions focused on visual design and interaction, but also technical and legal challenges related to data access, for a broad range of data types and driving biomedical questions.
+
+### Workshop Goal
+The goal of the workshop is to lay the groundwork for a position paper on challenges and research opportunities for data visualization in large heterogeneous collections of clinical, genomic, and other biomedical data. Workshop organizers and interested workshop participants will collaboratively refine the results of the discussions after the event and write this position paper. At a minimum, all participants will be acknowledged for their contribution.
+
 
 ### Preliminary Timeline
-**When:** October 2nd, 2017, 8:30 - 12:10
+Note: This is a rough agenda and the timings might slightly vary due to the dynamic nature of the workshop
 
-**Location:** 207LH, Phoenix Convention Center (for further details see the [http://ieeevis.org/](http://ieeevis.org/))
+**When:** October 22nd, 2018, 9:00 - 12:40
+
+**Location:** Room Estrel B, Estrel Berlin Convention Center (for further details see the [http://ieeevis.org/](http://ieeevis.org/))
 
 <a name="agenda"></a>
 <div>
-  <div class="sumTime" style="padding-top:5px;"> 8:30 - 8:45 </div>
-    <div class="ttile" style="padding-left:120px; padding-top:5px;"> <b>Opening remarks and workshop structure discussions</b></div>
+  <div class="sumTime" style="padding-top:5px;"> 9:00 - 9:10 </div>
+    <div class="ttile" style="padding-left:120px; padding-top:5px;"> <b>Opening remarks and workshop structure overview</b></div>
 </div>  
 
 <div>
-    <div class="sumTime2" style="font-size:15px;color:#21a186;">8:45 - 9:20</div>
+    <div class="sumTime2" style="font-size:15px;color:#21a186;">9:10 - 9:40</div>
     <div>
         <div class="sumContent" style="font-size:15px;color:#21a186;">Keynote</div>
-        <div class="sumContent" style="padding-left:120px;font-size:15px;color:#21a186;">Challenges in Visualization of Cancer Genomics Data</div>
-          <div class="sumDetail" style="padding-left:120px;font-size:15px;color:#21a186;"><i> Speaker: <b> Jeremy Warner</b>, Vanderbilt University Medical Center, TN, US</i>
+        <div class="sumContent" style="padding-left:120px;font-size:15px;color:#21a186;">Health Data Diversity and Complexity: Visualization Challenges for Longitudinal Cohort Analysis</div>
+          <div class="sumDetail" style="padding-left:120px;font-size:15px;color:#21a186;"><i> Speaker: <b> David Gotz</b>, University of North Carolina at Chapel Hill</i>
           </div>
     </div>
 </div>
 
 <div>
-  <div class="sumTime" style="padding-top:5px;"> 9:20 - 9:35 </div>
-    <div class="ttile" style="padding-left:120px; padding-top:5px;">Forming groups and setting up</div>
+  <div class="sumTime" style="padding-top:5px;"> 9:40 - 10:00 </div>
+    <div class="ttile" style="padding-left:120px; padding-top:5px;">Topics Discussion, Forming groups and setting up</div>
 </div>  
 
 <div>
-  <div class="sumTime" style="padding-top:5px;"> 9:35 - 10:10 </div>
-    <div class="ttile" style="padding-left:120px; padding-top:5px;">Group-work Session-1: Planning, scoping and initial discussions</div>
+  <div class="sumTime" style="padding-top:5px;"> 10:00 - 10:40 </div>
+    <div class="ttile" style="padding-left:120px; padding-top:5px;">Group work Session 1: Introductions and outline questions</div>
 </div>  
 
 <hr>
 <div>
-  <div class="sumTime" style="padding-top:5px;"> 10:10 - 10:30 </div>
+  <div class="sumTime" style="padding-top:5px;"> 10:40 - 11:00 </div>
     <div class="ttile" style="padding-left:120px; padding-top:5px;"> <em>Coffee Break </em></div>
 </div>  
 <hr>
 
 <div>
-  <div class="sumTime" style="padding-top:5px;"> 10:30 - 11:45 </div>
-    <div class="ttile" style="padding-left:120px; padding-top:5px;">Group-work Session-2: Developing ideas and drafting proposals</div>
+  <div class="sumTime" style="padding-top:5px;"> 11:00 - 12:10 </div>
+    <div class="ttile" style="padding-left:120px; padding-top:5px;">Group work Session 2: Prioritize questions, develop ideas, and draft report
+</div>
 </div>  
 
 <div>
-  <div class="sumTime" style="padding-top:5px;"> 11:45 - 12:00 </div>
+  <div class="sumTime" style="padding-top:5px;"> 12:10 - 12:30 </div>
     <div class="ttile" style="padding-left:120px; padding-top:5px;">Reporting back from groups</div>
 </div>
 
 <div>
-  <div class="sumTime" style="padding-top:5px;"> 12:00 - 12:10 </div>
+  <div class="sumTime" style="padding-top:5px;"> 12:30 - 12:40 </div>
     <div class="ttile" style="padding-left:120px; padding-top:5px;"><b>Wrap-up / Final comments / Next steps</b></div>
 </div>
 
 
-### Keynote talk
+### Keynote Talk
 
 <div class="talk">
-    <div class="ttitle">Challenges in Visualization of Cancer Genomics Data
-    </div>
-    <div><span class="tspeaker"><a href="http://www.vicc.org/dd/display.php?person=jeremy.warner">Jeremy L. Warner MD, MS</a></span>, <span>Vanderbilt University Medical Center, TN, US</span></div>
+    <div class="ttitle">Health Data Diversity and Complexity: Visualization Challenges for Longitudinal Cohort Analysis</div>
+    <div><span class="tspeaker"><a href="">David Gotz</a></span>, <span>University of North Carolina at Chapel Hill</span></div>
 
-    <div class="tportrait"><img src="{{ site.baseurl}}/files/warner-jeremy.jpg" style="width: 150px;" alt="J.Warner">
-    </div>
+    <!--div class="tportrait"><img src="{{ site.baseurl}}/files/warner-jeremy.jpg" style="width: 150px;" alt="J.Warner"></div-->
 
     <div class="tbioabstract">
 
         <div class="tabstract"><b>Abstract:</b>
-        Jeremy Warner MD, MS is an Associate Professor of Medicine and Biomedical Informatics at Vanderbilt University, where he also directs the Vanderbilt Cancer Registry and Stem Cell Transplant Data Analysis Team. He is board certified in Internal Medicine, Medical Oncology, Hematology, and Clinical Informatics; his clinical focus is malignant hematology. His primary research goal is to make sense of the structured and unstructured data present in electronic health records (EHRs) and clinical knowledge bases to directly improve clinical care for patients, with a focus on oncology. This includes high-dimensional data analysis and visualization, natural language processing of cancer-oriented narratives, and development/implementation of oncology-specific health IT standards. He is the chief software architect of <em><a href="http://www.vicc.org/smart-pcm/">SMART Precision Cancer Medicine</a>,</em> and leads the Vanderbilt pilot site of <em><a href="http://www.sync4genes.org/">Sync for Genes</a></em>. He is a member of the <em><a href="https://allofus.nih.gov/about/program-components/data-research-center">All of Us Research Program’s Data and Research Support Center</a></em>.
-        <br>
-        <br>
-        <b>Fun fact:</b> in a past life he was a DJ and threw at least one rave in a subbasement.
+        David Gotz is an Associate Professor of Information Science in the [School of Information and Library Science](http://sils.unc.edu/) (SILS) at the [University  of North Carolina at Chapel Hill](http://www.unc.edu/).  He leads the Visual Analysis and Communications Lab (VACLab) where he conducts research related to the study and development of visual methods for information analysis and communication.  He also serves as the Assistant Director for the [Carolina Health Informatics Program](http://chip.unc.edu/).
+		
+		Prior to joining SILS, he was a research scientist at the [T.J. Watson Research Center](http://www.watson.ibm.com/) at IBM Research.  During his final years at IBM he was part of the [Healthcare Systems and Analytics Research Department](http://www.research.ibm.com/healthcare/).  He also spent several years working for the Intelligent Information Interaction Department which he joined  immediately after earning his Ph.D. in Computer Science from UNC-Chapel Hill in 2005.  Prior to his Ph.D. studies, he received his MS in Computer Science from [UNC-Chapel Hill](http://www.unc.edu/) in 2001. He graduated with highest honors from [Georgia Tech](http://www.gatech.edu/) in 1999 where he majored in Computer Science and received a certificate in Economics.
         </div>
     </div>
 </div>
-
-
-
-### Background Reading
-We will be adding a number of background reading material and relevant links for those who would like to read about and brush up their knowledge about the domain prior to the event (this list will be updated up to and during the workshop):
-
-* Warner, Jeremy L., et al. [*SMART precision cancer medicine: a FHIR-based app to provide genomic information at the point of care.*](https://academic.oup.com/jamia/article/23/4/701/2200286/SMART-precision-cancer-medicine-a-FHIR-based-app) Journal of the American Medical Informatics Association 23.4 (2016): 701-710.

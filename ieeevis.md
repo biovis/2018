@@ -15,7 +15,6 @@ permalink: /ieeevis/
 <h4> Additional details for BioVis@VIS 2018 will be announced soon. In the meantime check out last year's event <a href="http://biovis.net/2017/ieeevis">BioVis@VIS</a> and our co-located meeting with <a href= "http://biovis.net/2017/ismb">ISMB 2017</a> </h4>
 </div>-->
 
-
 <div class="row center-align">
 
     <div class="col m6 s12 event-page-menu-block">
@@ -27,7 +26,7 @@ permalink: /ieeevis/
     <div class="col m6 s12 event-page-menu-block">
         <i class="material-icons large">list</i>
         <h3>Program</h3>
-        <a class="btn waves-effect waves-light disabled" href="{{site.baseurl}}/program_ieee" type="submit" name="action">View Details</a>
+        <a class="btn waves-effect waves-light" href="{{site.baseurl}}/agenda_ieee" type="submit" name="action">View Details</a>
     </div>
 </div>
 
